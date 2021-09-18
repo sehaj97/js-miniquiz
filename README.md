@@ -1,3 +1,4 @@
+https://sehaj97.github.io/js-miniquiz/
 # True or False Game
 
 In this activity, you will create a "True or False" game that will ask five questions and return the final score.
@@ -27,6 +28,3 @@ In this activity, you will create a "True or False" game that will ask five ques
 * Which DOM method can we use to display a confirmation? 
 
 * Which DOM method can we use to display an alert? 
-
----
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
